@@ -1,5 +1,5 @@
 #img-self {
-  max-width: 265px;
+  max-width: 750px;
   float: left;
 }
 
@@ -65,6 +65,6 @@ a:hover {
 } */
 
 #fire-text {
-  color: red;
+  color: rgb(97, 30, 30);
   text-shadow: 0px -1px 3px #FF3, 0px -3px 3px #F90, 0px -8px 6px #C33;
 }
