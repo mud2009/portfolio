@@ -1,6 +1,10 @@
 #img-self {
   max-width: 265px;
-  /* float: left; */
+  float: left;
+}
+
+#caption {
+  clear: left;
 }
 
 body {
@@ -20,17 +24,18 @@ body {
 .wrapper {
   display: flex;
   width: 100%;
-  align-items: stretch;
+  /* align-items: stretch; */
   margin-top: 30px;
 }
 
 #sidebar {
   display: flex;
-  min-height: 100vh;
+  min-height: 80vh;
   max-width: 190px;
   min-width: 190px;
   /* max-width: 15%;
   min-width: 15%;  other option for sidebar*/
+  /* border-right:1px solid black; */
 }
 
 .sidebar-list {
@@ -43,6 +48,10 @@ body {
 
 a {
   text-decoration: none;
+  color: black;
+}
+
+a:hover {
   color: black;
 }
 
