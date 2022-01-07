@@ -3,14 +3,14 @@
   /* float: left; */
 }
 
-/* 
-#caption {
-  float: left;
-} */
-
 body {
-  background: lightgreen;
+  /* background: lightgreen; */
   font-family: sans-serif;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
 }
 
 #project-list {
@@ -24,15 +24,15 @@ body {
 
 .wrapper {
   display: flex;
-  /* width: 100%; */
+  width: 100%;
   align-items: stretch;
 }
 
 #sidebar {
-  min-width: 250px;
-  max-width: 250px;
+  display: flex;
+  width: 18%;
   min-height: 100vh;
-  
+  margin-top: 50px;
 }
 
 .sidebar-list {
@@ -42,4 +42,8 @@ body {
 a {
   text-decoration: none;
   color: black;
+}
+
+#main {
+  margin-top: 50px;
 }

@@ -1,8 +1,8 @@
 # _Portfolio Site_
 
-#### By _**Will Greenberg**_
+#### By **Will Greenberg**
 
-#### _This site will act as a portfolio of Will Greenberg's projects_
+#### This site will act as a portfolio of Will Greenberg's projects
 
 ## Technologies Used
 
