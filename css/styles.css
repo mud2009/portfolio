@@ -8,10 +8,6 @@ body {
   font-family: sans-serif;
 }
 
-h5 {
-  margin: 0;
-}
-
 #project-list {
   margin: 0;
   padding-left: 20px;
@@ -50,4 +46,5 @@ a {
 
 #main {
   max-height: 80vh;
+  display: block;
 }
