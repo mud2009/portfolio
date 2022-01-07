@@ -2,6 +2,22 @@
   max-width: 750px;
   float: left;
   border: 3px solid hotpink;
+  animation-duration: 2s;
+  animation-name: slidein;
+  overflow: hidden;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 175%;
+    width: 500%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
 }
 
 #caption {
