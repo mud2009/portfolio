@@ -27,8 +27,8 @@ body {
 
 #sidebar {
   display: flex;
-  width: 18%;
-  min-height: 80vh;
+  width: 15%;
+  min-height: 100vh;
 }
 
 .sidebar-list {
@@ -44,6 +44,11 @@ a {
   color: black;
 }
 
-#main {
+.main {
+  max-width: 80%;
   max-height: 80vh;
 }
+/* 
+#about {
+  float: left;
+} */
