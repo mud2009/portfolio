@@ -1,4 +1,4 @@
-# _Portfolio Site_
+# Portfolio Site
 
 #### By **Will Greenberg**
 
