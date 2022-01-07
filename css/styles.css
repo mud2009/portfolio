@@ -63,3 +63,8 @@ a:hover {
 #about {
   float: left;
 } */
+
+#fire-text {
+  color: red;
+  text-shadow: 0px -1px 3px #FF3, 0px -3px 3px #F90, 0px -8px 6px #C33;
+}
