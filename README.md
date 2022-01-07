@@ -13,6 +13,10 @@
 
 This site allows users to easily access information about Will Greenberg's projects made during the Epicodus course.
 
+## Link to site
+
+* The site is accessible [here](https://www.mud2009.github.io/portfolio.html).
+
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop.
