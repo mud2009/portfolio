@@ -1,6 +1,7 @@
 #img-self {
   max-width: 750px;
   float: left;
+  border: 3px solid hotpink;
 }
 
 #caption {
@@ -24,7 +25,6 @@ body {
 .wrapper {
   display: flex;
   width: 100%;
-  /* align-items: stretch; */
   margin-top: 30px;
 }
 
@@ -56,13 +56,8 @@ a:hover {
 }
 
 .main {
-  /* max-width: 80%; this helps deal with the overlap thing if needed*/
   max-height: 80vh;
 }
-/* 
-#about {
-  float: left;
-} */
 
 #fire-text {
   color: rgb(97, 30, 30);
