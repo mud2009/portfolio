@@ -27,8 +27,11 @@ body {
 
 #sidebar {
   display: flex;
-  width: 15%;
   min-height: 100vh;
+  max-width: 200px;
+  min-width: 200px;
+  /* max-width: 15%;
+  min-width: 15%;  other option for sidebar*/
 }
 
 .sidebar-list {
@@ -45,7 +48,7 @@ a {
 }
 
 .main {
-  max-width: 80%;
+  /* max-width: 80%; this helps deal with the overlap thing if needed*/
   max-height: 80vh;
 }
 /* 
