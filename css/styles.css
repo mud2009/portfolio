@@ -3,10 +3,15 @@
   /* float: left; */
 }
 
+/* 
 #caption {
-  /* float: left; */
-}
+  float: left;
+} */
 
 body {
   background: lightgreen;
+}
+
+#project-list {
+  list-style-type:circle;
 }
