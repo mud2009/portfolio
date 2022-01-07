@@ -25,9 +25,7 @@ This site allows users to easily access information about Will Greenberg's proje
 
 ## Known Bugs
 
-* 
-* 
-* 
+* Monkey image animation stutters on first load.
 
 ## License
 
