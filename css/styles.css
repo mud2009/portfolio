@@ -48,9 +48,6 @@ body {
   min-height: 80vh;
   max-width: 190px;
   min-width: 190px;
-  /* max-width: 15%;
-  min-width: 15%;  other option for sidebar*/
-  /* border-right:1px solid black; */
 }
 
 .sidebar-list {
