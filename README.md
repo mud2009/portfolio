@@ -15,7 +15,7 @@ This site allows users to easily access information about Will Greenberg's proje
 
 ## Link to site
 
-* The site is accessible [here](https://www.mud2009.github.io/portfolio.html).
+* The site is accessible [here](https://mud2009.github.io/portfolio/).
 
 ## Setup/Installation Requirements
 
