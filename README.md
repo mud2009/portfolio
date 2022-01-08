@@ -11,7 +11,7 @@
 
 ## Description
 
-This site allows users to easily access information about Will Greenberg's projects made during the Epicodus course. :grinning_face_with_big_eyes:
+This site allows users to easily access information about Will Greenberg's projects made during the Epicodus course. :smiley:
 
 ## Link to site
 
