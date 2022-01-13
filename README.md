@@ -29,4 +29,6 @@ This site allows users to easily access information about Will Greenberg's proje
 
 ## License
 
+[MIT](https://opensource.org/licenses/MIT)
+
 Copyright (c) 2022 Will Greenberg
